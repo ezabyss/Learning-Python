@@ -1,0 +1,17 @@
+    Module      |    Project
+----------------| ------------
+google          # to make google search
+pyqrcode        # to generage qr code
+pypng           # to save the qrcode as png
+pyzbar          # decode the qrcode
+pillow          # to read image
+pyshorteners    # to shorten the 
+tkinter         # for graphics
+tkcalendar      # for calendar
+pydictionary    # for pocket dictionary
+moviepy         # for video to gif
+plyer           # to access the hardware feature and give notification
+PyPDF2          # secure pdf
+pywhatkit       # for automating what's app
+instabot        # for instagram automation
+

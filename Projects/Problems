@@ -1,0 +1,13 @@
+#Installing the pygame
+
+Due to python version 
+>>> pip install pygame --pre 
+
+# Installing PyDictionary
+PyDictionary depends on goslate which is dependant on futures, since futures is not supported by Python 3 it causes error. One way of preventing this is to install goslate directly from the GitHub Repository.
+
+First install goslate from GitHub Repository:
+pip install -e git+https://github.com/yeahwhat-mc/goslate#egg=goslate
+
+Then install PyDictionary:
+pip install PyDictionary
